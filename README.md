@@ -93,10 +93,11 @@ The dataset contains historical movie ratings provided by users along with movie
                      ▼
              Rating Prediction
 
-## 👨‍💻 Author
-
-### **Piyush Jha**
-
-
                      ▼
               Results & Analysis
+
+
+## Author
+
+**Piyush Jha**
+
